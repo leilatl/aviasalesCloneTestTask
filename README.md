@@ -17,6 +17,7 @@ This project is a clone of the popular Aviasales platform, built using SwiftUI a
 
 ## Demo
 https://drive.google.com/file/d/1Ff4azV2T6iiAEG0UOJWkuTxjFxWrab0m/view?usp=sharing
+<img src="https://github.com/leilatl/aviasalesCloneTestTask/assets/46998891/1606932c-ff66-4eb1-bc04-501ecbf13509" alt="Home Screen" width="300"/>
 ![image](https://github.com/leilatl/aviasalesCloneTestTask/assets/46998891/1606932c-ff66-4eb1-bc04-501ecbf13509)
 ![image](https://github.com/leilatl/aviasalesCloneTestTask/assets/46998891/2ccf798e-a308-4de2-9177-98e01d05387e)
 ![image](https://github.com/leilatl/aviasalesCloneTestTask/assets/46998891/23e51970-87d4-4073-aafd-ff8600a5fb2d)
