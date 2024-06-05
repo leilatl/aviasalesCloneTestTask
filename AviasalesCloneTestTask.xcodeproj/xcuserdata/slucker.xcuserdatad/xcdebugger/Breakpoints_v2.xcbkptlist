@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "275F6DBB-88BF-4392-8A2A-562B2DF2004E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07322C00-A12C-471B-A1BC-330101AFB7CD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AviasalesCloneTestTask/Tickets/TicketsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "departure"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B6D7657-D5B9-4E14-BFE5-FFB89CB1437A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AviasalesCloneTestTask/Application/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "ticketsRootScreen()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0B6D7657-D5B9-4E14-BFE5-FFB89CB1437A - e8c4e13949c642ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (AviasalesCloneTestTask.TicketsViewModel.Event) -&gt; () in AviasalesCloneTestTask.AppCoordinator.ticketsScreen() -&gt; __C.UIViewController"
+                  moduleName = "AviasalesCloneTestTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slucker/Projects/L/ios/AviasalesCloneTestTask/AviasalesCloneTestTask/Application/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "583">
+               </Location>
+               <Location
+                  uuid = "0B6D7657-D5B9-4E14-BFE5-FFB89CB1437A - da5b1a929a7b4210"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (AviasalesCloneTestTask.TicketsRootViewModel.Event) -&gt; () in AviasalesCloneTestTask.AppCoordinator.ticketsRootScreen() -&gt; __C.UIViewController"
+                  moduleName = "AviasalesCloneTestTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slucker/Projects/L/ios/AviasalesCloneTestTask/AviasalesCloneTestTask/Application/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "465">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B257E22-C0F2-4F1E-A79F-51F289F6E455"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AviasalesCloneTestTask/Application/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "ticketsRootScreen()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
